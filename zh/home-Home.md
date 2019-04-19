@@ -41,7 +41,7 @@ SERO团队经过长时间的努力，让图灵完备的智能合约真正运行�
 
 
 [[官网] https://sero.cash](https://sero.cash)
-[[白皮书 V1.0.6] http://sero-media.s3-website-ap-southeast-1.amazonaws.com/Sero_ENG_V1.06.pdf](http://sero-media.s3-website-ap-southeast-1.amazonaws.com/Sero_ENG_V1.06.pdf)
+[[白皮书 V1.1] http://sero-media.s3-website-ap-southeast-1.amazonaws.com/SERO_CHS_V1.1.pdf](http://sero-media.s3-website-ap-southeast-1.amazonaws.com/SERO_CHS_V1.1.pdf)
 [[Twitter] https://twitter.com/SEROdotCASH](https://twitter.com/SEROdotCASH)
 [[Telegram] https://t.me/SeroOfficial](https://t.me/SeroOfficial)
 [[Github] https://github.com/sero-cash/go-sero](https://github.com/sero-cash/go-sero)
